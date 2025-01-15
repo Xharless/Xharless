@@ -41,7 +41,7 @@
 
 ### 📊 My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Xharless&theme=highcontrast&hide_border=true&locale=es)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Xharless)](https://git.io/streak-stats)
 
 ![Xharless GitHub stats](https://github-readme-stats.vercel.app/api?username=Xharless&show_icons=true&theme=radical)
 
